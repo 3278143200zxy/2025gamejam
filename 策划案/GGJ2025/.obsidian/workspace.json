@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "66a42bd9eb182fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "92200dbe59fd4bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a25c32f574e2b7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统设计/核心玩法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "核心玩法"
+            }
+          },
+          {
+            "id": "7176b10f1df46e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统设计/核心玩法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "核心玩法"
+            }
+          },
+          {
+            "id": "c5fa1076dcbe497e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统设计/系统1-宗教命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统1-宗教命名"
+            }
+          },
+          {
+            "id": "4eb26a56ff27b1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统设计/系统2-圣城选择.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统2-圣城选择"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2356df071086376d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeceff075ffff994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f6ea8ce05f561ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b1613fc3dfa4d0bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5f824062d8e086b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "505e9d5ca74c496a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2992ec0186f839b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b98a5fe8fe358f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "系统设计/系统2-圣城选择.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "系统2-圣城选择 的反向链接列表"
+            }
+          },
+          {
+            "id": "2cdcfa41b35ab030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "系统设计/系统2-圣城选择.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "系统2-圣城选择 的出链列表"
+            }
+          },
+          {
+            "id": "0fa0e90423e434ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b983674a9b43ad5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "系统设计/系统2-圣城选择.md"
+              },
+              "icon": "lucide-list",
+              "title": "系统2-圣城选择 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4eb26a56ff27b1bf",
+  "lastOpenFiles": [
+    "系统设计/核心玩法.md",
+    "系统设计/系统2-圣城选择.md",
+    "系统设计/系统1-宗教命名.md",
+    "游戏介绍.md",
+    "欢迎.md",
+    "系统设计",
+    "世界观"
+  ]
+}
