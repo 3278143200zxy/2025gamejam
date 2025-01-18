@@ -67,80 +67,94 @@
         "currentTab": 1
       },
       {
-        "id": "92200dbe59fd4bbe",
-        "type": "tabs",
+        "id": "d447fe810f021b70",
+        "type": "split",
         "children": [
           {
-            "id": "a25c32f574e2b7c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demo阶段功能需求/功能需求.md",
-                "mode": "source",
-                "source": false
+            "id": "92200dbe59fd4bbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a25c32f574e2b7c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo阶段功能需求/功能需求.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "功能需求"
+                }
               },
-              "icon": "lucide-file",
-              "title": "功能需求"
-            }
+              {
+                "id": "7176b10f1df46e80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "系统设计/名词解释/暴露值.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "暴露值"
+                }
+              },
+              {
+                "id": "a0bc79c227ecba3a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "系统设计/名词解释/任务.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "任务"
+                }
+              },
+              {
+                "id": "c5fa1076dcbe497e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "系统设计/名词解释/卡牌.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "卡牌"
+                }
+              }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "7176b10f1df46e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统设计/名词解释/暴露值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "暴露值"
-            }
-          },
-          {
-            "id": "956c02c7d6edbd83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统设计/名词解释/地形.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "地形"
-            }
-          },
-          {
-            "id": "a0bc79c227ecba3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统设计/名词解释/任务.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "任务"
-            }
-          },
-          {
-            "id": "c5fa1076dcbe497e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统设计/名词解释/卡牌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "卡牌"
-            }
+            "id": "9ed4436794e377b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "956c02c7d6edbd83",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "系统设计/名词解释/地形.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "地形"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -281,12 +295,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a25c32f574e2b7c1",
+  "active": "c5fa1076dcbe497e",
   "lastOpenFiles": [
-    "系统设计/系统7-新闻播报.md",
     "系统设计/名词解释/任务.md",
-    "系统设计/名词解释/地形.md",
     "Demo阶段功能需求/功能需求.md",
+    "系统设计/系统7-新闻播报.md",
+    "系统设计/名词解释/地形.md",
     "Demo功能.md",
     "系统设计/名词解释/暴露值.md",
     "Demo阶段功能需求",
